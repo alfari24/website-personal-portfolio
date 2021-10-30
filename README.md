@@ -1,5 +1,3 @@
-https://alfari.net/web.jpg
-
 <p align="center">
   <a href="http://alfari.net"><img src="./img/web.jpg" width="700px" alt="landing page"></a>
 </p>
