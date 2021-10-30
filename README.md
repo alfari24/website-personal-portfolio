@@ -1,8 +1,9 @@
 https://alfari.net/web.jpg
 
 <p align="center">
-  <a href="http://alfari.net"><img src="/web.jpg" width="700px" alt="landing page"></a>
+  <a href="http://alfari.net"><img src="./img/web.jpg" width="700px" alt="landing page"></a>
 </p>
+
 # website-personal-portfolio
 use as a portfolio website as an addition to your resume or cv
 
