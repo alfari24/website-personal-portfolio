@@ -19,13 +19,16 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=ffffff)
 
-# website-personal-portfolio
-use as a portfolio website as an addition to your resume or cv
+# Website-personal-portfolio
+a website page that can be used to display a profile of yourself or a project that you have created, so that your resume will look more attractive.
 
 # What's new
-I slightly changed the look on the mobile to make it look good and make it simpler in appearance.
+I slightly changed the display on the phone to make it look nice and simpler in appearance, tidy up some html file directories.
 
-and tidy up some html file directories
+so that it is possible to develop it further with some features that you can add or develop yourself.
 
-# follow too
+# Follow too
+don't forget to follow the original creator of this website
 creator : https://github.com/anniedotexe/anniew.xyz
+
+# Thank you
