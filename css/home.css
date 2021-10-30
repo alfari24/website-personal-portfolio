@@ -110,6 +110,15 @@
     background-color: #7EB77F;
     padding: 10px 20px;
 }
+/* update*/
+.art-me {
+    display: none;
+    height: 350px;
+}
+
+.art-me img {
+    height: 100%;
+}
 
 @media only screen and (min-width: 768px) {
     .big-title {
@@ -117,6 +126,9 @@
     }
     .short-bio {
         max-width: 75%;
+    }
+    .art-me {
+        display: block;
     }
     #home {
         flex-direction: row;
@@ -126,5 +138,10 @@
     }
     .landing-page-socials ul li a i {
         margin: 5px 0;
+    }
+
+@media only screen and (min-width: 1000px) {
+    #home {
+        gap: 10%;
     }
 }
